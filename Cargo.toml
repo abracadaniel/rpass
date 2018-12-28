@@ -1,0 +1,8 @@
+[package]
+name = "rpass"
+version = "0.1.0"
+authors = ["Daniel Ørsted <droe@pm.me>"]
+edition = "2018"
+
+[dependencies]
+rand = "*"
