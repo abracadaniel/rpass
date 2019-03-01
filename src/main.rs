@@ -1,5 +1,6 @@
 use std::env;
 use rand::thread_rng;
+use rand::seq::SliceRandom;
 
 const DEFAULT_LEN: usize = 32;
 
